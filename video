@@ -1,10 +1,12 @@
 # 送中也没关系的视频网站，可以利用闲置的小鸡
+# 其它地区延迟低的话就不放进来。
 
-
+# 【常用】
 # YouTube
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
-# 低端影视（搜索不能用送中节点）ddys.info
+# 低端影视（搜索不能用送中节点）
+# 官网发布页 ddys.info
 DOMAIN-SUFFIX,v.ddys.mov
 DOMAIN-SUFFIX,v.ddys.pro
 # 555电影
@@ -15,16 +17,33 @@ DOMAIN-SUFFIX,v3.vwx01.com
 DOMAIN-SUFFIX,v8.dious.cc
 DOMAIN-SUFFIX,v5.nopqq.vip
 DOMAIN-SUFFIX,v5.lmnoprs.com
-# goodav17 / ggjav
-DOMAIN-SUFFIX,ggjav.com
-DOMAIN-SUFFIX,cloudatacdn.com
-DOMAIN-SUFFIX,cdn-3.porn87.com
 
+
+
+#【不分类】
 DOMAIN-SUFFIX,intersystems.com
 DOMAIN-SUFFIX,dailymotion.com
 DOMAIN-SUFFIX,bfllvip.com
 DOMAIN-SUFFIX,tubetubetube.com
+
+
+
+
+
+
+#【偶尔】
+# goodav17 / ggjav
+DOMAIN-SUFFIX,ggjav.com
+DOMAIN-SUFFIX,cloudatacdn.com
+DOMAIN-SUFFIX,cdn-3.porn87.com
+#
 DOMAIN-SUFFIX,b-cdn.net
+DOMAIN-SUFFIX,cloud.avking.xyz
+DOMAIN-SUFFIX,vieznem.com
+DOMAIN-SUFFIX,tipemu.com
+DOMAIN-SUFFIX,emilany.com
+
+
 
 
 #未确认
