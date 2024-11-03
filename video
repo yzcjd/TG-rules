@@ -11,14 +11,15 @@ DOMAIN-SUFFIX,v.ddys.mov
 DOMAIN-SUFFIX,v.ddys.pro
 # 555电影
 DOMAIN-SUFFIX,vip.ffzy-play5.com
-DOMAIN-SUFFIX,v3.uwxy011.com
-DOMAIN-SUFFIX,v3.5679abb.com
-DOMAIN-SUFFIX,v3.vwx01.com
-DOMAIN-SUFFIX,v8.dious.cc
-DOMAIN-SUFFIX,v5.nopqq.vip
-DOMAIN-SUFFIX,v5.lmnoprs.com
+DOMAIN-SUFFIX,uwxy011.com
+DOMAIN-SUFFIX,5679abb.com
+DOMAIN-SUFFIX,vwx01.com
+DOMAIN-SUFFIX,dious.cc
+DOMAIN-SUFFIX,nopqq.vip
+DOMAIN-SUFFIX,lmnoprs.com
+DOMAIN-SUFFIX,svipsvip.ffzyread1.com
 # CF R2
-DOMAIN-SUFFIX,r2.cloudflarestorage.com
+DOMAIN-SUFFIX,cloudflarestorage.com
 
 
 
@@ -49,11 +50,4 @@ DOMAIN-SUFFIX,vieznem.com
 DOMAIN-SUFFIX,tipemu.com
 DOMAIN-SUFFIX,emilany.com
 DOMAIN-SUFFIX,nunezeo.com
-
-
-
-
-
-#未确认
-DOMAIN-SUFFIX,svipsvip.ffzyread1.com
 
