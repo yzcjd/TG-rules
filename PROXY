@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,v1.mk
 
 # 风车
 DOMAIN-SUFFIX,slll.in
+
+# 小鸡
+IP-CIDR,194.29.187.0/22
