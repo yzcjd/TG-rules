@@ -1,5 +1,5 @@
 # 送中也没关系的视频网站，可以利用半废的小鸡
-# 香港访问OK，其它地区访问延迟低的不放进来。
+# 香港访问 OK，其它地区访问延迟低的不放进来。
 
 # 【常用】
 # YouTube
@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,youtube.com
 # 官网发布页 ddys.info
 DOMAIN-SUFFIX,v.ddys.mov
 DOMAIN-SUFFIX,v.ddys.pro
-# 555电影
+# 555 电影
 DOMAIN-SUFFIX,vip.ffzy-play5.com
 DOMAIN-SUFFIX,uwxy011.com
 DOMAIN-SUFFIX,5679abb.com
@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,vwx01.com
 DOMAIN-SUFFIX,dious.cc
 DOMAIN-SUFFIX,nopqq.vip
 DOMAIN-SUFFIX,lmnoprs.com
-DOMAIN-SUFFIX,svipsvip.ffzyread1.com
+DOMAIN-SUFFIX,ffzyread1.com
 # CF R2
 DOMAIN-SUFFIX,cloudflarestorage.com
 
@@ -29,7 +29,7 @@ DOMAIN-SUFFIX,dailymotion.com
 DOMAIN-SUFFIX,bfllvip.com
 DOMAIN-SUFFIX,tubetubetube.com
 DOMAIN-SUFFIX,brnowy.com
-DOMAIN-SUFFIX,cdn.pvvstream.pro
+DOMAIN-SUFFIX,pvvstream.pro
 DOMAIN-SUFFIX,sb-cd.com
 DOMAIN-SUFFIX,fellatiojapan.com
 
@@ -50,4 +50,5 @@ DOMAIN-SUFFIX,vieznem.com
 DOMAIN-SUFFIX,tipemu.com
 DOMAIN-SUFFIX,emilany.com
 DOMAIN-SUFFIX,nunezeo.com
+DOMAIN-SUFFIX,xdmdesigns.org
 
