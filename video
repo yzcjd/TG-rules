@@ -54,3 +54,5 @@ DOMAIN-SUFFIX,emilany.com
 DOMAIN-SUFFIX,nunezeo.com
 DOMAIN-SUFFIX,xdmdesigns.org
 
+# 测试规则
+DOMAIN-KEYWORD,cdn
