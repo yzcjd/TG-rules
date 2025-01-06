@@ -56,3 +56,5 @@ DOMAIN-SUFFIX,xdmdesigns.org
 
 # 测试规则
 DOMAIN-KEYWORD,cdn
+DOMAIN-KEYWORD,video
+#DOMAIN-KEYWORD,ts扩展名
